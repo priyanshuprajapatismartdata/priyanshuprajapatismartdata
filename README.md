@@ -10,15 +10,15 @@ I'm a **Senior Full Stack Developer** with **7+ years of experience** building s
 
 I specialize in taking products from **idea to production**, including:
 
-* ✅ **System Architecture & Application Design**
-* ✅ **Full Stack Development (MEAN/MERN)**
-* ✅ **AWS Infrastructure & Deployment**
-* ✅ **SSL Configuration & Production Server Management**
-* ✅ **Team Leadership & Client Communication**
-* ✅ **Performance Optimization & Monitoring**
-* ✅ **Database Design & Optimization** (MongoDB, PostgreSQL, MySQL, Redis)
-* ✅ **Event-Driven Architecture** using SNS & SQS
-* ✅ **Distributed Caching** with ElastiCache/Redis
+*  **System Architecture & Application Design**
+*  **Full Stack Development (MEAN/MERN)**
+*  **AWS Infrastructure & Deployment**
+*  **SSL Configuration & Production Server Management**
+*  **Team Leadership & Client Communication**
+*  **Performance Optimization & Monitoring**
+*  **Database Design & Optimization** (MongoDB, PostgreSQL, MySQL, Redis)
+*  **Event-Driven Architecture** using SNS & SQS
+*  **Distributed Caching** with ElastiCache/Redis
 
 Currently managing a team of **4–5 developers** and serving as a **Technical Point of Contact (POC)** for clients, translating business requirements into scalable technical solutions.
 
@@ -108,24 +108,24 @@ Currently managing a team of **4–5 developers** and serving as a **Technical P
 
 ## 🏆 Core Expertise
 
-* ✔ MEAN Stack Development
-* ✔ MERN Stack Development
-* ✔ REST APIs & Microservices
-* ✔ System Architecture Design
-* ✔ AWS Cloud Solutions
-* ✔ Docker & Kubernetes
-* ✔ Production Deployment
-* ✔ SSL & Nginx Configuration
-* ✔ Team Leadership
-* ✔ Client Communication
-* ✔ Performance Optimization
-* ✔ Payment Gateway Integration
-* ✔ Monitoring & Logging
-* ✔ Agile Development
-* ✔ PostgreSQL, MongoDB, MySQL & Redis
-* ✔ Database Design & Query Optimization
-* ✔ AWS Lambda, EC2, ECR, SNS, SQS & ElastiCache
-* ✔ Kafka & Event-Driven Architecture
+*  MEAN Stack Development
+*  MERN Stack Development
+*  REST APIs & Microservices
+*  System Architecture Design
+*  AWS Cloud Solutions
+*  Docker & Kubernetes
+*  Production Deployment
+*  SSL & Nginx Configuration
+*  Team Leadership
+*  Client Communication
+*  Performance Optimization
+*  Payment Gateway Integration
+*  Monitoring & Logging
+*  Agile Development
+*  PostgreSQL, MongoDB, MySQL & Redis
+*  Database Design & Query Optimization
+*  AWS Lambda, EC2, ECR, SNS, SQS & ElastiCache
+*  Kafka & Event-Driven Architecture
 
 ---
 
