@@ -1,6 +1,6 @@
 # Hi there 👋, I'm **Priyanshu Prajapati**
 
-### **Senior MEAN/MERN Stack Developer | Technical Lead | AWS Cloud Engineer**
+### **Senior MERN Stack Developer | Technical Lead | AWS Cloud Engineer**
 
 ---
 
