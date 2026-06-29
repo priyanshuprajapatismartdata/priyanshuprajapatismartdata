@@ -40,7 +40,6 @@ Currently managing a team of **4–5 developers** and serving as a **Technical P
 
 ### Frontend
 
-* Angular
 * React
 * JavaScript
 * TypeScript
